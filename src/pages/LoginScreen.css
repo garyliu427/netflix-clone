@@ -83,7 +83,8 @@
 }
 
 .loginScreen__getStarted {
-  padding: 16px 20px;
+  padding: 15px 20px;
+  padding-bottom: 17px;
   font-size: 1rem;
   text-transform: uppercase;
   color: #fff;
