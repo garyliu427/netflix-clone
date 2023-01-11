@@ -52,3 +52,7 @@
   border: none;
   cursor: pointer;
 }
+
+.profileScreen__plans > h3 {
+  padding: 10px 0px;
+}
